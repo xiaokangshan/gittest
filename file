@@ -1,0 +1,7 @@
+total 6
+drwxr-xr-x    6 Administ Administ     4096 Mar  5 17:29 .
+drwxr-xr-x    3 Administ Administ        0 Mar  5 16:26 ..
+drwxr-xr-x   13 Administ Administ     4096 Mar  5 16:37 .git
+-rw-r--r--    1 Administ Administ       25 Mar  5 16:26 README.md
+-rwxr-xr-x    1 Administ Administ       34 Mar  5 16:28 test.sh
+-rwxr-xr-x    1 Administ Administ      211 Mar  5 17:29 test1.sh pwd
